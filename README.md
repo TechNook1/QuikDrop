@@ -1,2 +1,7 @@
-# QuikDrop
-QuickDrop is a modern ride-sharing platform that connects passengers with nearby drivers for fast, affordable trips. Built for speed and simplicity
+# QuickDrop
+
+A new Flutter project.
+
+## Getting Started
+
+FlutterFlow projects are built to run on the Flutter _stable_ release.
